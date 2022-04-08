@@ -5,3 +5,12 @@
     font-family: 'Lato', sans-serif;
 }
 
+/* Quienes-somos */
+#Quienes-Somos p {
+    text-align: justify;
+} 
+#Quienes-Somos i {
+    background-color: #0ecaef;
+}
+
+
